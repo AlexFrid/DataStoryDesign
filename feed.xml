@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://alexfrid.github.io/DataStoryDesign/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alexfrid.github.io/DataStoryDesign/" rel="alternate" type="text/html" /><updated>2020-03-07T13:30:34-06:00</updated><id>https://alexfrid.github.io/DataStoryDesign/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html">Converting an Alteryx tool into a Python function</title><link href="https://alexfrid.github.io/DataStoryDesign/story/2020/02/01/alteryx-to-python.html" rel="alternate" type="text/html" title="Converting an Alteryx tool into a Python function" /><published>2020-02-01T00:00:00-06:00</published><updated>2020-02-01T00:00:00-06:00</updated><id>https://alexfrid.github.io/DataStoryDesign/story/2020/02/01/alteryx-to-python</id><content type="html" xml:base="https://alexfrid.github.io/DataStoryDesign/story/2020/02/01/alteryx-to-python.html">&lt;p&gt;A while ago I was doing some fuzzy matching and tried out a challenge to convert the typical fuzzy matching process
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://alexfrid.github.io/DataStoryDesign/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alexfrid.github.io/DataStoryDesign/" rel="alternate" type="text/html" /><updated>2020-03-07T13:56:56-06:00</updated><id>https://alexfrid.github.io/DataStoryDesign/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html">Converting an Alteryx tool into a Python function</title><link href="https://alexfrid.github.io/DataStoryDesign/alteryx/python/2020/02/01/alteryx-to-python.html" rel="alternate" type="text/html" title="Converting an Alteryx tool into a Python function" /><published>2020-02-01T00:00:00-06:00</published><updated>2020-02-01T00:00:00-06:00</updated><id>https://alexfrid.github.io/DataStoryDesign/alteryx/python/2020/02/01/alteryx-to-python</id><content type="html" xml:base="https://alexfrid.github.io/DataStoryDesign/alteryx/python/2020/02/01/alteryx-to-python.html">&lt;p&gt;A while ago I was doing some fuzzy matching and tried out a challenge to convert the typical fuzzy matching process
 in Alteryx into a pythonic way of doing it.&lt;/p&gt;
 
 &lt;p&gt;While I didn’t end up completing it, 
 I was quite happy that I was able to complete one of the tools, 
 the Alteryx make group tool.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/makegroup.jpg&quot; alt=&quot;&quot; title=&quot;Make Group&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/makegroup.jpg&quot; alt=&quot;Make Group&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;While I had used it several times in Alteryx, I didn’t really know how it worked.
 Well.. I knew the make group tool makes groups! Obviously :)&lt;/p&gt;
@@ -16,11 +16,11 @@ Well.. I knew the make group tool makes groups! Obviously :)&lt;/p&gt;
 documentation, which in Alteryx’s case its best at look at the tool examples
 found here:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/make-groups-example-menu.PNG&quot; alt=&quot;&quot; title=&quot;Make Group example&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/make-groups-example-menu.PNG&quot; alt=&quot;Make Group example&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After opening the example, we’re greeted with this very helpful explanation:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/make-groups-explanation.PNG&quot; alt=&quot;&quot; title=&quot;Make Group explanation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/make-groups-explanation.PNG&quot; alt=&quot;Make Group explanation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;From looking closely at this we can deduce that the make group tool
 is actually doing a few things:&lt;/p&gt;
@@ -115,10 +115,10 @@ otherwise let me know ;)&lt;/p&gt;
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;makegroups&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/mg-python.png&quot; alt=&quot;&quot; title=&quot;Make Group Python&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/DataStoryDesign/images/post_images/mg-python.png&quot; alt=&quot;Make Group Python&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can find the Python file and a notebook file at:
-https://github.com/AlexFrid/MakeGroup&lt;/p&gt;</content><author><name></name></author><summary type="html">A while ago I was doing some fuzzy matching and tried out a challenge to convert the typical fuzzy matching process in Alteryx into a pythonic way of doing it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://alexfrid.github.io/DataStoryDesign/images/header_images/alteryx-to-python.png" /><media:content medium="image" url="https://alexfrid.github.io/DataStoryDesign/images/header_images/alteryx-to-python.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Finished is better than perfect</title><link href="https://alexfrid.github.io/DataStoryDesign/story/2020/01/18/finished-is-better-than-perfect.html" rel="alternate" type="text/html" title="Finished is better than perfect" /><published>2020-01-18T00:00:00-06:00</published><updated>2020-01-18T00:00:00-06:00</updated><id>https://alexfrid.github.io/DataStoryDesign/story/2020/01/18/finished-is-better-than-perfect</id><content type="html" xml:base="https://alexfrid.github.io/DataStoryDesign/story/2020/01/18/finished-is-better-than-perfect.html">&lt;p&gt;I have a problem with procrastination. 
+&lt;a href=&quot;https://github.com/AlexFrid/MakeGroup&quot;&gt;https://github.com/AlexFrid/MakeGroup&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A while ago I was doing some fuzzy matching and tried out a challenge to convert the typical fuzzy matching process in Alteryx into a pythonic way of doing it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://alexfrid.github.io/DataStoryDesign/images/header_images/alteryx-to-python.png" /><media:content medium="image" url="https://alexfrid.github.io/DataStoryDesign/images/header_images/alteryx-to-python.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Finished is better than perfect</title><link href="https://alexfrid.github.io/DataStoryDesign/story/2020/01/18/finished-is-better-than-perfect.html" rel="alternate" type="text/html" title="Finished is better than perfect" /><published>2020-01-18T00:00:00-06:00</published><updated>2020-01-18T00:00:00-06:00</updated><id>https://alexfrid.github.io/DataStoryDesign/story/2020/01/18/finished-is-better-than-perfect</id><content type="html" xml:base="https://alexfrid.github.io/DataStoryDesign/story/2020/01/18/finished-is-better-than-perfect.html">&lt;p&gt;I have a problem with procrastination. 
 More specifically, I have a problem with procrastination in my personal life.
 Which I find quite frustrating because I’m generally on top of things at work.&lt;/p&gt;
 
@@ -154,7 +154,7 @@ To do that however, I need to overcome my problem with procrastination.&lt;/p&gt
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.uk/End-Procrastination-Stop-Postponing-Fulfilled/dp/1250308054&quot;&gt;The End of Procrastination&lt;/a&gt;
-&lt;img src=&quot;/DataStoryDesign/images/post_images/procrastination.jpg&quot; alt=&quot;&quot; title=&quot;The End of Procrastination&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/DataStoryDesign/images/post_images/procrastination.jpg&quot; alt=&quot;The End of Procrastination&quot; /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Funnily enough, this book has been sitting on my desk for a few months now and I’ve just read the first chapter,
