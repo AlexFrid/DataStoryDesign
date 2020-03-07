@@ -1,10 +1,11 @@
 ---
 title: "Finished is better than perfect"
-summary: "I have a problem with procrastination, now its time for a change!"
+description: "I have a problem with procrastination, now its time for a change!"
 toc: false
+layout: post
 comments: false
 image: images/header_images/procrastination.jpg
-categories: [story]
+categories: [Story]
 ---
 
 I have a problem with procrastination. 
@@ -38,7 +39,7 @@ Practically what that means is implementing the ideas from two books I bought la
 I listened to this through audible this summer, it has great practical content, I just need to put it into practice.
 
 2. [The End of Procrastination](https://www.amazon.co.uk/End-Procrastination-Stop-Postponing-Fulfilled/dp/1250308054)
-![]({{ site.baseurl }}/images/post_images/procrastination.jpg "The End of Procrastination")
+![The End of Procrastination]({{ site.baseurl }}/images/post_images/procrastination.jpg)
 
 Funnily enough, this book has been sitting on my desk for a few months now and I've just read the first chapter,
 now its time to stop procrastinating on reading a book about how to stop procrastinating! :)

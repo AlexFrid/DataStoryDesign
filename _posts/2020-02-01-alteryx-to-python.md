@@ -1,10 +1,11 @@
 ---
 title: "Converting an Alteryx tool into a Python function"
-summary: "A learning challenge"
+description: "A learning challenge"
 toc: false
+layout: post
 comments: false
 image: images/header_images/alteryx-to-python.png
-categories: [story]
+categories: [Alteryx, Python]
 ---
 
 A while ago I was doing some fuzzy matching and tried out a challenge to convert the typical fuzzy matching process
@@ -14,7 +15,7 @@ While I didn't end up completing it,
 I was quite happy that I was able to complete one of the tools, 
 the Alteryx make group tool.
 
-![]({{ site.baseurl }}/images/post_images/makegroup.jpg "Make Group")
+![Make Group]({{ site.baseurl }}/images/post_images/makegroup.jpg)
 
 While I had used it several times in Alteryx, I didn't really know how it worked.
 Well.. I knew the make group tool makes groups! Obviously :)
@@ -25,12 +26,12 @@ In situations like this I find the best place to start is reading the
 documentation, which in Alteryx's case its best at look at the tool examples
 found here:
 
-![]({{ site.baseurl }}/images/post_images/make-groups-example-menu.PNG "Make Group example")
+![Make Group example]({{ site.baseurl }}/images/post_images/make-groups-example-menu.PNG)
 
 
 After opening the example, we're greeted with this very helpful explanation:
 
-![]({{ site.baseurl }}/images/post_images/make-groups-explanation.PNG "Make Group explanation")
+![Make Group explanation]({{ site.baseurl }}/images/post_images/make-groups-explanation.PNG)
 
 From looking closely at this we can deduce that the make group tool
 is actually doing a few things:
@@ -120,7 +121,7 @@ Now we can call the function and get the groups
 makegroups(df)
 ```
 
-![]({{ site.baseurl }}/images/post_images/mg-python.png "Make Group Python")
+![Make Group Python]({{ site.baseurl }}/images/post_images/mg-python.png)
 
 You can find the Python file and a notebook file at:
-https://github.com/AlexFrid/MakeGroup
+[https://github.com/AlexFrid/MakeGroup](https://github.com/AlexFrid/MakeGroup)
