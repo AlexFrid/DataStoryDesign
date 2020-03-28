@@ -481,7 +481,7 @@ h1, h2, h3, h4 { font-weight: 700 !important; color: #3F4F67; }
 
 .site-nav { margin-top: 31px; }
 
-.site-header { border-bottom: 0px; }
+.site-header { border-bottom: 0px; border-top: 0px; }
 
 .post-link { font-weight: 700; }
 
