@@ -1,4 +1,39 @@
-// Import styles for fastpages.
+// Import styles for fastpages
 @import "minima/fastpages-styles";
 
 // Add your styles below
+a {
+    color: #3F4F67 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: #83B5D1 !important;
+}
+
+h1, h2, h3, h4 {
+    font-weight: revert !important;
+    color: #3F4F67;
+}
+
+.site-title {
+	margin-top: 20px;
+}
+
+.site-nav {
+	margin-top: 31px;
+}
+
+.site-header {
+    border-bottom: 0px;
+}
+
+.post-link {
+	font-weight: revert;
+}
+
+#learn-with-me-about-data-storytelling-and-design {
+	margin: 0px 0 40px 0 !important;
+	font-family: 'Caveat', cursive;
+	font-size: 45px;
+}
