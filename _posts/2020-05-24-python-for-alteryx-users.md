@@ -30,14 +30,14 @@ layout: notebook
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Overview-of-tools">Overview of tools<a class="anchor-link" href="#Overview-of-tools"> </a></h1><p>We will recreate this Alteryx workflow using Python</p>
-<p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/Alteryx_workflow.PNG" alt="Alteryx workflow"></p>
+<p><img src="/images/copied_from_nb/python-for-alteryx-users//Alteryx_workflow.PNG" alt="Alteryx workflow"></p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Text-input">Text input<a class="anchor-link" href="#Text-input"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/text-input.png" alt="Text Input"></p>
+<h2 id="Text-input">Text input<a class="anchor-link" href="#Text-input"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/text-input.png" alt="Text Input"></p>
 
 </div>
 </div>
@@ -121,7 +121,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Input-data">Input data<a class="anchor-link" href="#Input-data"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/normal-input.png" alt="Input data"></p>
+<h2 id="Input-data">Input data<a class="anchor-link" href="#Input-data"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/normal-input.png" alt="Input data"></p>
 
 </div>
 </div>
@@ -321,7 +321,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Select-tool">Select tool<a class="anchor-link" href="#Select-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/select.png" alt="Select tool"></p>
+<h2 id="Select-tool">Select tool<a class="anchor-link" href="#Select-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/select.png" alt="Select tool"></p>
 
 </div>
 </div>
@@ -442,7 +442,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Formula-tool">Formula tool<a class="anchor-link" href="#Formula-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/formula.png" alt="Formula tool"></p>
+<h2 id="Formula-tool">Formula tool<a class="anchor-link" href="#Formula-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/formula.png" alt="Formula tool"></p>
 
 </div>
 </div>
@@ -562,7 +562,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Filter-tool">Filter tool<a class="anchor-link" href="#Filter-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/filter.png" alt="Filter tool"></p>
+<h2 id="Filter-tool">Filter tool<a class="anchor-link" href="#Filter-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/filter.png" alt="Filter tool"></p>
 
 </div>
 </div>
@@ -799,7 +799,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Sort-tool">Sort tool<a class="anchor-link" href="#Sort-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/sort.png" alt="Sort tool"></p>
+<h2 id="Sort-tool">Sort tool<a class="anchor-link" href="#Sort-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/sort.png" alt="Sort tool"></p>
 
 </div>
 </div>
@@ -919,7 +919,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Summarize-tool">Summarize tool<a class="anchor-link" href="#Summarize-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/summarize.png" alt="Summarize tool"></p>
+<h2 id="Summarize-tool">Summarize tool<a class="anchor-link" href="#Summarize-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/summarize.png" alt="Summarize tool"></p>
 
 </div>
 </div>
@@ -1110,7 +1110,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Join-tool">Join tool<a class="anchor-link" href="#Join-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/join.png" alt="Join tool"></p>
+<h2 id="Join-tool">Join tool<a class="anchor-link" href="#Join-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/join.png" alt="Join tool"></p>
 
 </div>
 </div>
@@ -1306,7 +1306,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Union-tool">Union tool<a class="anchor-link" href="#Union-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/union.png" alt="Union tool"></p>
+<h2 id="Union-tool">Union tool<a class="anchor-link" href="#Union-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/union.png" alt="Union tool"></p>
 
 </div>
 </div>
@@ -1432,7 +1432,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Output-tool">Output tool<a class="anchor-link" href="#Output-tool"> </a></h2><p><img src="/DataStoryDesign/images/copied_from_nb/python-for-alteryx-users/output.png" alt="Output tool"></p>
+<h2 id="Output-tool">Output tool<a class="anchor-link" href="#Output-tool"> </a></h2><p><img src="/images/copied_from_nb/python-for-alteryx-users/output.png" alt="Output tool"></p>
 
 </div>
 </div>
