@@ -3,30 +3,36 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Tags | Data Story Design</title>
+<title>Read and write hyper files in Python | Data Story Design</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Tags" />
+<meta property="og:title" content="Read and write hyper files in Python" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="© 2020 Data Story Design" />
-<meta property="og:description" content="© 2020 Data Story Design" />
-<link rel="canonical" href="https://datastorydesign.com/categories/" />
-<meta property="og:url" content="https://datastorydesign.com/categories/" />
+<meta name="description" content="A simple way to go between Tableau hyper files and Pandas DataFrames" />
+<meta property="og:description" content="A simple way to go between Tableau hyper files and Pandas DataFrames" />
+<link rel="canonical" href="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" />
+<meta property="og:url" content="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" />
 <meta property="og:site_name" content="Data Story Design" />
+<meta property="og:image" content="https://datastorydesign.com/images/header_images/tableau-to-python.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-06-17T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"© 2020 Data Story Design","headline":"Tags","@type":"WebPage","url":"https://datastorydesign.com/categories/","@context":"https://schema.org"}</script>
+{"description":"A simple way to go between Tableau hyper files and Pandas DataFrames","dateModified":"2020-06-17T00:00:00-05:00","datePublished":"2020-06-17T00:00:00-05:00","headline":"Read and write hyper files in Python","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html"},"image":"https://datastorydesign.com/images/header_images/tableau-to-python.png","url":"https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://datastorydesign.com/feed.xml" title="Data Story Design" /><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Tags | Data Story Design</title>
+<title>Read and write hyper files in Python | Data Story Design</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Tags" />
+<meta property="og:title" content="Read and write hyper files in Python" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="© 2020 Data Story Design" />
-<meta property="og:description" content="© 2020 Data Story Design" />
-<link rel="canonical" href="https://datastorydesign.com/categories/" />
-<meta property="og:url" content="https://datastorydesign.com/categories/" />
+<meta name="description" content="A simple way to go between Tableau hyper files and Pandas DataFrames" />
+<meta property="og:description" content="A simple way to go between Tableau hyper files and Pandas DataFrames" />
+<link rel="canonical" href="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" />
+<meta property="og:url" content="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" />
 <meta property="og:site_name" content="Data Story Design" />
+<meta property="og:image" content="https://datastorydesign.com/images/header_images/tableau-to-python.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-06-17T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"© 2020 Data Story Design","headline":"Tags","@type":"WebPage","url":"https://datastorydesign.com/categories/","@context":"https://schema.org"}</script>
+{"description":"A simple way to go between Tableau hyper files and Pandas DataFrames","dateModified":"2020-06-17T00:00:00-05:00","datePublished":"2020-06-17T00:00:00-05:00","headline":"Read and write hyper files in Python","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html"},"image":"https://datastorydesign.com/images/header_images/tableau-to-python.png","url":"https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -90,83 +96,99 @@ window.onload = wrap_img;
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home anim-fade-in">
+        <article class="post h-entry anim-fade-in" itemscope itemtype="http://schema.org/BlogPosting">
 
-<h2>Contents</h2>
-
-
-<ul>
-
-  
-  <li><a href="#Story">Story</a></li>
-
-  
-  <li><a href="#Alteryx">Alteryx</a></li>
-
-  
-  <li><a href="#Python">Python</a></li>
-
-  
-  <li><a href="#Tableau">Tableau</a></li>
-
-</ul>
-
-
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Read and write hyper files in Python</h1><p class="page-description">A simple way to go between Tableau hyper files and Pandas DataFrames</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-06-17T00:00:00-05:00" itemprop="datePublished">
+        Jun 17, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      1 min read
+    
+</span></p>
 
     
-
-    <h3 id ="Story"><i class="fas fa-tags category-tags-icon"></i></i> Story</h3>
-    <a name="Story"></a>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/story/2020/01/18/finished-is-better-than-perfect.html">Finished is better than perfect</a>  • Jan 18, 2020</p>
-    </article>
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/categories/#Python">Python</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/categories/#Tableau">Tableau</a>
+        
+      
+      </p>
     
 
     
+      </header>
 
-    <h3 id ="Alteryx"><i class="fas fa-tags category-tags-icon"></i></i> Alteryx</h3>
-    <a name="Alteryx"></a>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/python/alteryx/2020/06/11/easily-anonymize-your-data.html">Easily anonymize your data</a>  • Jun 11, 2020</p>
-    </article>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/alteryx/python/2020/05/24/python-for-alteryx-users.html">Python for Alteryx users</a>  • May 24, 2020</p>
-    </article>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/alteryx/python/2020/02/01/alteryx-to-python.html">Converting an Alteryx tool into a Python function</a>  • Feb 1, 2020</p>
-    </article>
+  <div class="post-content e-content" itemprop="articleBody">
+    <!--
+#################################################
+### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
+#################################################
+# file to edit: _notebooks/2020-06-17-read-and-write-hyper-files-in-python.ipynb
+-->
+
+<div class="container" id="notebook-container">
+        
     
-
     
-
-    <h3 id ="Python"><i class="fas fa-tags category-tags-icon"></i></i> Python</h3>
-    <a name="Python"></a>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html">Read and write hyper files in Python</a>  • Jun 17, 2020</p>
-    </article>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/python/alteryx/2020/06/11/easily-anonymize-your-data.html">Easily anonymize your data</a>  • Jun 11, 2020</p>
-    </article>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/alteryx/python/2020/05/24/python-for-alteryx-users.html">Python for Alteryx users</a>  • May 24, 2020</p>
-    </article>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/alteryx/python/2020/02/01/alteryx-to-python.html">Converting an Alteryx tool into a Python function</a>  • Feb 1, 2020</p>
-    </article>
-    
-
-    
-
-    <h3 id ="Tableau"><i class="fas fa-tags category-tags-icon"></i></i> Tableau</h3>
-    <a name="Tableau"></a>
-    <article class="archive-item">
-      <p class="post-meta post-meta-title"><a class="page-meta" href="/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html">Read and write hyper files in Python</a>  • Jun 17, 2020</p>
-    </article>
-    
-
-
+<div class="cell border-box-sizing code_cell rendered">
 
 </div>
+    
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Tableau-Hyper-IO">Tableau Hyper IO<a class="anchor-link" href="#Tableau-Hyper-IO"> </a></h1><p>A simple wrapper for the <a href="https://help.tableau.com/current/api/hyper_api/en-us/index.html">Tableau Hyper API</a></p>
+<p><a href="https://github.com/AlexFrid/tableauhyperio">Click here to see the code on GitHub</a></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Why-was-this-made?">Why was this made?<a class="anchor-link" href="#Why-was-this-made?"> </a></h2><p>For a project I was working on I needed to read hyper files.
+I searched if a package already existed and found only the <a href="https://pypi.org/project/pandleau/">pandleau</a> package,
+which only writes to hyper files but does not read them and also uses the older extract 2.0 API.
+Since I couldn't find any other package that met my needs I decided to make one myself, which has been a good learning experience.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Installation">Installation<a class="anchor-link" href="#Installation"> </a></h2><p>You can install tableauhyperio using pip:</p>
+<div class="highlight"><pre><span></span>pip install tableauhyperio
+</pre></div>
+<p>This will also try downloading the Tableau hyper API, tqdm, pandas.</p>
+<h2 id="Example-usage">Example usage<a class="anchor-link" href="#Example-usage"> </a></h2><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">tableauhyperio</span> <span class="k">as</span> <span class="nn">hio</span>
+
+<span class="c1"># Reading a regular hyper file</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">hio</span><span class="o">.</span><span class="n">read_hyper</span><span class="p">(</span><span class="s2">&quot;example.hyper&quot;</span><span class="p">)</span>
+
+<span class="c1"># Reading a hyper file with a custom schema</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">hio</span><span class="o">.</span><span class="n">read_hyper</span><span class="p">(</span><span class="s2">&quot;example.hyper&quot;</span><span class="p">,</span> <span class="s2">&quot;my_schema&quot;</span><span class="p">)</span>
+
+<span class="c1"># Writing a regular hyper file</span>
+<span class="n">hio</span><span class="o">.</span><span class="n">to_hyper</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="s2">&quot;example_output.hyper&quot;</span><span class="p">)</span>
+
+<span class="c1"># Writing a hyper file with a custom schema and custom table name</span>
+<span class="n">hio</span><span class="o">.</span><span class="n">to_hyper</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="s2">&quot;example_output.hyper&quot;</span><span class="p">,</span> <span class="s2">&quot;my_schema&quot;</span><span class="p">,</span> <span class="s2">&quot;my_table&quot;</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+  </div><a class="u-url" href="/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" hidden></a>
+</article>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
