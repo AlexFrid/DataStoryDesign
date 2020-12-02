@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://datastorydesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://datastorydesign.com/" rel="alternate" type="text/html" /><updated>2020-12-02T07:45:38-06:00</updated><id>https://datastorydesign.com/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html"></title><link href="https://datastorydesign.com/2020/12/02/2020-12-02-lessons-learned-working-as-a-consultant.html" rel="alternate" type="text/html" title="" /><published>2020-12-02T07:45:38-06:00</published><updated>2020-12-02T07:45:38-06:00</updated><id>https://datastorydesign.com/2020/12/02/2020-12-02-lessons-learned-working-as-a-consultant</id><content type="html" xml:base="https://datastorydesign.com/2020/12/02/2020-12-02-lessons-learned-working-as-a-consultant.html">&lt;p&gt;The following is pretty much a list and short explanation of some things I’ve learned and thought “I should write a blog post about this”. While its good first step to collect these things, actually sharing it is what matters. This is an attempt to do some sharing of my thoughts.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://datastorydesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://datastorydesign.com/" rel="alternate" type="text/html" /><updated>2020-12-02T07:54:40-06:00</updated><id>https://datastorydesign.com/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html"></title><link href="https://datastorydesign.com/2020/12/02/2020-12-02-lessons-learned-working-as-a-consultant.html" rel="alternate" type="text/html" title="" /><published>2020-12-02T07:54:40-06:00</published><updated>2020-12-02T07:54:40-06:00</updated><id>https://datastorydesign.com/2020/12/02/2020-12-02-lessons-learned-working-as-a-consultant</id><content type="html" xml:base="https://datastorydesign.com/2020/12/02/2020-12-02-lessons-learned-working-as-a-consultant.html">&lt;p&gt;The following is pretty much a list and short explanation of some things I’ve learned and thought “I should write a blog post about this”. While its good first step to collect these things, actually sharing it is what matters. This is an attempt to do some sharing of my thoughts.&lt;/p&gt;
 
 &lt;h2 id=&quot;when-to-look-stupid&quot;&gt;When to look stupid&lt;/h2&gt;
 &lt;p&gt;It’s impossible to know everything all the time, so there are times you’re inevitably going to look stupid sometimes.&lt;/p&gt;
@@ -34,15 +34,15 @@ A good way to increase motivation is to increase the clarity of what needs to be
 &lt;h2 id=&quot;dont-try-to-be-smart-try-to-be-useful&quot;&gt;Don’t try to be smart, try to be useful&lt;/h2&gt;
 &lt;p&gt;I’ve come think that there are only 2 things you need to focus on to be successful and they both come in form of questions you should regularly ask yourself.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;How is this adding value?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;How is this adding value?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;If you can consistently demonstrate that you’re adding value then the only other thing you need to worry about is&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Do people like working with/for me?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;Do people like working with/for me?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;An important thing to note here is that the question “do people like working with me” is a very different question and should not be confused with “do people like me”.&lt;/p&gt;
 
