@@ -23,11 +23,11 @@ What I mean by "look stupid" is something like
 - What do you mean by...
 - It seems pretty straightforward, I'd just like to confirm that...
 
-Good time to look stupid
+**Good time to look stupid**
 - Scoping/planning meetings
 - When someone asks you to do something
 
-Bad time to look stupid
+**Bad time to look stupid**
 - after you said you could do it
 - in an email after a meeting where people were asking if things were clear and you said everything was clear
 
@@ -70,13 +70,19 @@ A key to that is setting expectations and priorities.
 
 Always bring a physical notebook/paper to any meeting.
 Often you need to share your screen and such, so taking notes on your laptop is not always going to work.
+
 Taking notes on your phone makes you look like you're not doing work.
+
 Taking notes and asking people to repeat things because you're taking notes makes both them and you feel like your on top of things.
+
 If you have a particularly demanding manager or manager who regularly changes his mind, then a good approach would be to:
-Take notes
-Send notes in an email to the person to ask if he agrees that what you wrote down was the priority
-If he changes his mind later and asks you why something (that was not on the list) wasn't done you can show him the email showing he agreed to these items, not the other item he's now asking for
-Don't let yes be your default answer, ask rather "should we prioritise that over ___".  Saying yes to too many things will get you in trouble later, in form of either overwork, mediocre work (because you didn't have time) or taking on something that was not possible or at least not possible in the time frame you said yes to.
+1. Take notes
+2. Send notes in an email to the person to ask if he agrees that what you wrote down was the priority
+3. If he changes his mind later and asks you why something (that was not on the list) wasn't done you can show him the email showing he agreed to these items, not the other item he's now asking for
+
+Don't let yes be your default answer, ask rather "should we prioritise that over ___".
+
+Saying yes to too many things will get you in trouble later, in form of either overwork, mediocre work (because you didn't have time) or taking on something that was not possible or at least not possible in the time frame you said yes to.
 
 Give alternatives, If you want me to prioritise this dashboard then I won't have time for this other dashboard you asking me for yesterday, which one has a higher priority?
 
