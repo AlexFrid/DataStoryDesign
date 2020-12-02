@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://datastorydesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://datastorydesign.com/" rel="alternate" type="text/html" /><updated>2020-12-02T08:01:58-06:00</updated><id>https://datastorydesign.com/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html">A few lessons learned working as a consultant</title><link href="https://datastorydesign.com/story/2020/12/02/lessons-learned-working-as-a-consultant.html" rel="alternate" type="text/html" title="A few lessons learned working as a consultant" /><published>2020-12-02T00:00:00-06:00</published><updated>2020-12-02T00:00:00-06:00</updated><id>https://datastorydesign.com/story/2020/12/02/lessons-learned-working-as-a-consultant</id><content type="html" xml:base="https://datastorydesign.com/story/2020/12/02/lessons-learned-working-as-a-consultant.html">&lt;p&gt;The following is pretty much a list and short explanation of some things I’ve learned and thought “I should write a blog post about this”. While its good first step to collect these things, actually sharing it is what matters. This is an attempt to do some sharing of my thoughts.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://datastorydesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://datastorydesign.com/" rel="alternate" type="text/html" /><updated>2020-12-02T08:08:53-06:00</updated><id>https://datastorydesign.com/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html">A few lessons learned working as a consultant</title><link href="https://datastorydesign.com/story/2020/12/02/lessons-learned-working-as-a-consultant.html" rel="alternate" type="text/html" title="A few lessons learned working as a consultant" /><published>2020-12-02T00:00:00-06:00</published><updated>2020-12-02T00:00:00-06:00</updated><id>https://datastorydesign.com/story/2020/12/02/lessons-learned-working-as-a-consultant</id><content type="html" xml:base="https://datastorydesign.com/story/2020/12/02/lessons-learned-working-as-a-consultant.html">&lt;p&gt;The following is pretty much a list and short explanation of some things I’ve learned and thought “I should write a blog post about this”. While its good first step to collect these things, actually sharing it is what matters. This is an attempt to do some sharing of my thoughts.&lt;/p&gt;
 
 &lt;h2 id=&quot;when-to-look-stupid&quot;&gt;When to look stupid&lt;/h2&gt;
 &lt;p&gt;It’s impossible to know everything all the time, so there are times you’re inevitably going to look stupid sometimes.&lt;/p&gt;
@@ -14,13 +14,13 @@
   &lt;li&gt;It seems pretty straightforward, I’d just like to confirm that…&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Good time to look stupid&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Good time to look stupid&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Scoping/planning meetings&lt;/li&gt;
   &lt;li&gt;When someone asks you to do something&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Bad time to look stupid&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bad time to look stupid&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;after you said you could do it&lt;/li&gt;
   &lt;li&gt;in an email after a meeting where people were asking if things were clear and you said everything was clear&lt;/li&gt;
@@ -66,14 +66,22 @@ A good way to increase motivation is to increase the clarity of what needs to be
 A key to that is setting expectations and priorities.&lt;/p&gt;
 
 &lt;p&gt;Always bring a physical notebook/paper to any meeting.
-Often you need to share your screen and such, so taking notes on your laptop is not always going to work.
-Taking notes on your phone makes you look like you’re not doing work.
-Taking notes and asking people to repeat things because you’re taking notes makes both them and you feel like your on top of things.
-If you have a particularly demanding manager or manager who regularly changes his mind, then a good approach would be to:
-Take notes
-Send notes in an email to the person to ask if he agrees that what you wrote down was the priority
-If he changes his mind later and asks you why something (that was not on the list) wasn’t done you can show him the email showing he agreed to these items, not the other item he’s now asking for
-Don’t let yes be your default answer, ask rather “should we prioritise that over ___”.  Saying yes to too many things will get you in trouble later, in form of either overwork, mediocre work (because you didn’t have time) or taking on something that was not possible or at least not possible in the time frame you said yes to.&lt;/p&gt;
+Often you need to share your screen and such, so taking notes on your laptop is not always going to work.&lt;/p&gt;
+
+&lt;p&gt;Taking notes on your phone makes you look like you’re not doing work.&lt;/p&gt;
+
+&lt;p&gt;Taking notes and asking people to repeat things because you’re taking notes makes both them and you feel like your on top of things.&lt;/p&gt;
+
+&lt;p&gt;If you have a particularly demanding manager or manager who regularly changes his mind, then a good approach would be to:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Take notes&lt;/li&gt;
+  &lt;li&gt;Send notes in an email to the person to ask if he agrees that what you wrote down was the priority&lt;/li&gt;
+  &lt;li&gt;If he changes his mind later and asks you why something (that was not on the list) wasn’t done you can show him the email showing he agreed to these items, not the other item he’s now asking for&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Don’t let yes be your default answer, ask rather “should we prioritise that over ___”.&lt;/p&gt;
+
+&lt;p&gt;Saying yes to too many things will get you in trouble later, in form of either overwork, mediocre work (because you didn’t have time) or taking on something that was not possible or at least not possible in the time frame you said yes to.&lt;/p&gt;
 
 &lt;p&gt;Give alternatives, If you want me to prioritise this dashboard then I won’t have time for this other dashboard you asking me for yesterday, which one has a higher priority?&lt;/p&gt;
 
