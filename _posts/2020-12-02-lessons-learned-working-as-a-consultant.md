@@ -1,6 +1,6 @@
 ---
 title: "A few lessons learned working as a consultant"
-description: "The following is pretty much a list and short explanation of some things I've learned and thought "I should write a blog post about this""
+description: "The following is pretty much a list and short explanation of some things I've learned and thought 'I should write a blog post about this'"
 toc: true
 layout: post
 comments: false
