@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://datastorydesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://datastorydesign.com/" rel="alternate" type="text/html" /><updated>2020-09-01T11:45:12-05:00</updated><id>https://datastorydesign.com/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html">Read and write hyper files in Python</title><link href="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" rel="alternate" type="text/html" title="Read and write hyper files in Python" /><published>2020-06-17T00:00:00-05:00</published><updated>2020-06-17T00:00:00-05:00</updated><id>https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python</id><content type="html" xml:base="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://datastorydesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://datastorydesign.com/" rel="alternate" type="text/html" /><updated>2020-12-02T07:37:57-06:00</updated><id>https://datastorydesign.com/feed.xml</id><title type="html">Data Story Design</title><subtitle>© 2020 Data Story Design</subtitle><entry><title type="html"></title><link href="https://datastorydesign.com/2020/12/02/2020-02-12-lessons-learned-working-as-a-consultant.html" rel="alternate" type="text/html" title="" /><published>2020-12-02T07:37:57-06:00</published><updated>2020-12-02T07:37:57-06:00</updated><id>https://datastorydesign.com/2020/12/02/2020-02-12-lessons-learned-working-as-a-consultant</id><content type="html" xml:base="https://datastorydesign.com/2020/12/02/2020-02-12-lessons-learned-working-as-a-consultant.html">&lt;p&gt;The following is pretty much a list and short explanation of some things I’ve learned and thought “I should write a blog post about this”. While its good first step to collect these things, actually sharing it is what matters. This is an attempt to do some sharing of my thoughts.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-to-look-stupid&quot;&gt;When to look stupid&lt;/h2&gt;
+&lt;p&gt;It’s impossible to know everything all the time, so there are times you’re inevitably going to look stupid sometimes.&lt;/p&gt;
+
+&lt;p&gt;You can however almost always choose when you look stupid.&lt;/p&gt;
+
+&lt;p&gt;What I mean by “look stupid” is something like&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I didn’t get it, can you repeat?&lt;/li&gt;
+  &lt;li&gt;let me explain what I understood&lt;/li&gt;
+  &lt;li&gt;could you explain it more simply?&lt;/li&gt;
+  &lt;li&gt;What do you mean by…&lt;/li&gt;
+  &lt;li&gt;It seems pretty straightforward, I’d just like to confirm that…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Good time to look stupid&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scoping/planning meetings&lt;/li&gt;
+  &lt;li&gt;When someone asks you to do something&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bad time to look stupid&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;after you said you could do it&lt;/li&gt;
+  &lt;li&gt;in an email after a meeting where people were asking if things were clear and you said everything was clear&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One way to avoid this is by saying something along the lines of I can’t think of anything at the moment but I’ll look more deeply into it and get back to you if I find anything.&lt;/p&gt;
+
+&lt;p&gt;Uncertainty is a big killer for motivation, especially if you’re remote
+A good way to increase motivation is to increase the clarity of what needs to be done. Striking things off a todo list makes you feel like you’re making progress and gives you an idea of how much is left. That way you can also avoid looking stupid when someone asks you how things are progressing and instead give a very concrete answer.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-try-to-be-smart-try-to-be-useful&quot;&gt;Don’t try to be smart, try to be useful&lt;/h2&gt;
+&lt;p&gt;I’ve come think that there are only 2 things you need to focus on to be successful and they both come in form of questions you should regularly ask yourself.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How is this adding value?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you can consistently demonstrate that you’re adding value then the only other thing you need to worry about is&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do people like working with/for me?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;An important thing to note here is that the question “do people like working with me” is a very different question and should not be confused with “do people like me”.&lt;/p&gt;
+
+&lt;p&gt;You don’t need to like the person personally to like working with them, it definitely helps but its not a necessity.&lt;/p&gt;
+
+&lt;p&gt;That aside, relationships are more important than technical skills, if you have a good relationship you’ll be allowed the freedom to experiment in an area that you’re not that strong in and failures will be seen in a more positive light. On the flip side, it doesn’t matter how technically gifted you are if your stakeholders don’t trust you, you will always be second-guessed and/or your advice ignored.&lt;/p&gt;
+
+&lt;p&gt;Closing out this section, I’m always reminded of a talk by Ryan Sleeper at a tableau conference where he said 80% of business questions can be answered with a bar or a line chart. Don’t need to be fancy or smart, it helps sure, but it’s not needed. You however absolutely have to be useful, so that is worth focusing on.&lt;/p&gt;
+
+&lt;h2 id=&quot;deliberate-practice-feels-like-imposter-syndrome&quot;&gt;Deliberate practice feels like imposter syndrome&lt;/h2&gt;
+&lt;p&gt;All practice is not equal and it’s worth looking into the concept of deliberate practice.&lt;/p&gt;
+
+&lt;p&gt;Essentially with deliberate practice, you’re deliberately doing things that are hard for you and that you need to improve in. That can feel like you’re terrible and you don’t know what you’re doing, since everybody else seems to be doing fine (typical imposter syndrome).&lt;/p&gt;
+
+&lt;p&gt;Just remember that as long as you’re adding value and people like working with/for you, it doesn’t matter if you feel like an imposter, you have proof that you are not.. and even more so the feeling itself is a sign that you are learning and growing so don’t be afraid of it.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-feeling-of-being-on-top-of-things&quot;&gt;The feeling of being on top of things&lt;/h2&gt;
+&lt;p&gt;There were only about 5 days in the last 2 and 1/2 years where I worked exessive overtime (at a client). I’ve been very protective of my free time and said no to many requests but even so, every client has given me great recommendations and that hasn’t been a hindrance at all.&lt;/p&gt;
+
+&lt;p&gt;What I’ve learned is that as long as the client feels like you’re on top of things and delivering good work they’ll respect your time.
+A key to that is setting expectations and priorities.&lt;/p&gt;
+
+&lt;p&gt;Always bring a physical notebook/paper to any meeting.
+Often you need to share your screen and such, so taking notes on your laptop is not always going to work.
+Taking notes on your phone makes you look like you’re not doing work.
+Taking notes and asking people to repeat things because you’re taking notes makes both them and you feel like your on top of things.
+If you have a particularly demanding manager or manager who regularly changes his mind, then a good approach would be to:
+Take notes
+Send notes in an email to the person to ask if he agrees that what you wrote down was the priority
+If he changes his mind later and asks you why something (that was not on the list) wasn’t done you can show him the email showing he agreed to these items, not the other item he’s now asking for
+Don’t let yes be your default answer, ask rather “should we prioritise that over ___”.  Saying yes to too many things will get you in trouble later, in form of either overwork, mediocre work (because you didn’t have time) or taking on something that was not possible or at least not possible in the time frame you said yes to.&lt;/p&gt;
+
+&lt;p&gt;Give alternatives, If you want me to prioritise this dashboard then I won’t have time for this other dashboard you asking me for yesterday, which one has a higher priority?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-next-useful-thing&quot;&gt;The next useful thing&lt;/h2&gt;
+&lt;p&gt;Making rapid progress by avoiding rabbit holes and just focusing on learning and doing the next useful thing.&lt;/p&gt;
+
+&lt;p&gt;Very often we focus too much on the details and go down rabbit holes.
+When you realise that happening there is another useful question:&lt;/p&gt;
+
+&lt;p&gt;What is the next useful thing?&lt;/p&gt;
+
+&lt;p&gt;Next useful thing being defined as:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Does it add value? (is it useful)&lt;/li&gt;
+  &lt;li&gt;Is it a priority? (should it be the next thing that I do)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you cannot answer these two questions convincingly you’re probably going down a rabbit hole and would benefit from some clarity before spending more time on whatever you’re doing.&lt;/p&gt;
+
+&lt;p&gt;Those were some of my thoughts, hope it has been helpful and all feedback very welcome.&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Read and write hyper files in Python</title><link href="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html" rel="alternate" type="text/html" title="Read and write hyper files in Python" /><published>2020-06-17T00:00:00-05:00</published><updated>2020-06-17T00:00:00-05:00</updated><id>https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python</id><content type="html" xml:base="https://datastorydesign.com/python/tableau/2020/06/17/read-and-write-hyper-files-in-python.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
