@@ -39,11 +39,11 @@ A good way to increase motivation is to increase the clarity of what needs to be
 ## Don't try to be smart, try to be useful
 I've come think that there are only 2 things you need to focus on to be successful and they both come in form of questions you should regularly ask yourself.
 
-> How is this adding value?
+- How is this adding value?
 
 If you can consistently demonstrate that you're adding value then the only other thing you need to worry about is
 
-> Do people like working with/for me?
+- Do people like working with/for me?
 
 An important thing to note here is that the question "do people like working with me" is a very different question and should not be confused with "do people like me".
 
